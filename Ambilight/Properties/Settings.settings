@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ambilight.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="onoffHot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+F12</Value>
+    </Setting>
+    <Setting Name="flashHot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+F11</Value>
+    </Setting>
+    <Setting Name="comPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="enableWithFull" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="screen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="strobespd1Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">112</Value>
+    </Setting>
+    <Setting Name="blinderKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">115</Value>
+    </Setting>
+    <Setting Name="strobespd2Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">113</Value>
+    </Setting>
+    <Setting Name="strobespd3Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">114</Value>
+    </Setting>
+    <Setting Name="delay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="brightness" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="blinderHot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+F10</Value>
+    </Setting>
+    <Setting Name="strobespd1KeyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F1</Value>
+    </Setting>
+    <Setting Name="strobespd2KeyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F2</Value>
+    </Setting>
+    <Setting Name="strobespd3KeyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F3</Value>
+    </Setting>
+    <Setting Name="blinderKeyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F4</Value>
+    </Setting>
+    <Setting Name="exitHot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Win+Escape</Value>
+    </Setting>
+    <Setting Name="captureMode" Type="Ambilight.CaptureMode" Scope="User">
+      <Value Profile="(Default)">GDI</Value>
+    </Setting>
+    <Setting Name="gamma" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
